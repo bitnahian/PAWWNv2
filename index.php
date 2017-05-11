@@ -1,3 +1,9 @@
+<?php
+
+session_start();
+
+?>
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -27,8 +33,8 @@
    <nav class="nav-extended">
          <div class="nav-wrapper">
            <ul id="dropdown1" class="dropdown-content">
-          <li><a href="registration.html">CLIENT</a></li>
-          <li><a href="#">CLC</a></li>
+          <li><a href="login.html">CLIENT LOGIN</a></li>
+          <li><a href="#">CLC LOGIN</a></li>
         </ul>            
 
           <a href="index.html" class="brand-logo center">PAWWN</a>
@@ -38,7 +44,18 @@
                 <li><a href="#">FAQs</a></li></strong>
               <strong>
             <li><a href="#">CONTACT</a></li></strong>
-          <strong><li><a class="dropdown-button" href="#!" data-activates="dropdown1">LOGIN<i class="material-icons right">arrow_drop_down</i></a></li></strong>
+          <strong><li><a class="dropdown-button" href="#!" data-activates="dropdown1">
+          <?php 
+          if(isset($_SESSION['name']))
+          { 
+          echo $_SESSION['name'];
+          }
+          else
+          {
+            echo "LOGIN";
+          }
+          ?>
+          <i class="material-icons right">arrow_drop_down</i></a></li></strong>
 
              </ul>
         </div>
@@ -105,10 +122,19 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
+            <a style = "color: white;" href = "logout.php">
+            <?php
+            if(isset($_SESSION['name']))
+            {
+              echo "    Sign Out";
+            }
+            ?>
+            </a>
             © 2017 Good Vibes All Rights Reserved.
             <a class="grey-text text-lighten-4 right" href="feedback.html"><strong>Give Feedback</strong></a>
             </div>
           </div>
+
         </footer>
         
    <!-- FOOTER ENDS HERE-->
