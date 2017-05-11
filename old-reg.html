@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Registration Form Using jQuery - Demo Preview</title>
+	<meta name="robots" content="noindex, nofollow">
+	<!-- Include CSS File Here -->
+	<link rel="stylesheet" href="style.css"/>
+	<!-- Include JS File Here -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script type="text/javascript" src="registration.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="main">
+			<form class="form" method="post" action="#">
+				<h2>Create Registration Form Using jQuery</h2>
+				<label>Name :</label>
+				<input type="text" name="dname" id="name">
+				<label>Email :</label>
+				<input type="text" name="demail" id="email">
+				<label>Password :</label>
+				<input type="password" name="password" id="password">
+				<label>Confirm Password :</label>
+				<input type="password" name="cpassword" id="cpassword">
+				<label>Address Line 1 :</label>
+				<input type="text" name="address1" id="address1">
+				<label>Address Line 2 :</label>
+				<input type="text" name="address2" id="address2">
+				<label>City :</label>
+				<input type="text" name="city" id="city">
+				<label>State :</label>
+				<select name = "state" id = "state">
+					<option value="ACT">Australian Capital Territory</option>
+					<option value="NSW">New South Wales</option>
+					<option value="NT">Northern Territory</option>
+					<option value="QLD">Queensland</option>
+					<option value="SA">South Australia</option>
+					<option value="TAS">Tasmania</option>
+					<option value="VIC">Victoria</option>
+					<option value="WA">Western Australia</option>
+				</select>
+				<label>Post Code :</label>
+				<input type="text" name="postcode" id="postcode">
+				<input type="button" name="register" id="register" value="Register">
+			</form>
+		</div>
+	</body>
+	</html>

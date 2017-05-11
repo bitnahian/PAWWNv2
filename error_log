@@ -1,0 +1,137 @@
+[11-May-2017 08:31:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:31:04 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:31:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:00 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:00 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:02 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:02 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: name1 in /home/infinibi/public_html/register.php on line 4
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: email1 in /home/infinibi/public_html/register.php on line 5
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: address11 in /home/infinibi/public_html/register.php on line 6
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: address21 in /home/infinibi/public_html/register.php on line 7
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: city1 in /home/infinibi/public_html/register.php on line 8
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: state1 in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: postcode1 in /home/infinibi/public_html/register.php on line 10
+[11-May-2017 08:38:08 UTC] PHP Notice:  Undefined index: password1 in /home/infinibi/public_html/register.php on line 11
+[11-May-2017 08:38:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:38:39 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:38:39 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:41:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 08:41:04 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 08:41:04 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:24:52 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:24:52 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:24:52 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:24:52 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:24:52 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:24:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infinibi/public_html/register.php on line 18
+[11-May-2017 09:24:52 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:24:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:25:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:25:01 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: name1 in /home/infinibi/public_html/register.php on line 4
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: email1 in /home/infinibi/public_html/register.php on line 5
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: address11 in /home/infinibi/public_html/register.php on line 6
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: address21 in /home/infinibi/public_html/register.php on line 7
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: city1 in /home/infinibi/public_html/register.php on line 8
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: state1 in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: postcode1 in /home/infinibi/public_html/register.php on line 10
+[11-May-2017 09:25:01 UTC] PHP Notice:  Undefined index: password1 in /home/infinibi/public_html/register.php on line 11
+[11-May-2017 09:25:01 UTC] PHP Warning:  mysql_close() expects parameter 1 to be resource, boolean given in /home/infinibi/public_html/register.php on line 42
+[11-May-2017 09:25:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:25:18 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:25:18 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:25:18 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:25:18 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:25:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infinibi/public_html/register.php on line 18
+[11-May-2017 09:25:18 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:25:18 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:40:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:40:20 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:40:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:40:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 18
+[11-May-2017 09:40:20 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:40:20 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:40:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:40:26 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: name1 in /home/infinibi/public_html/register.php on line 4
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: email1 in /home/infinibi/public_html/register.php on line 5
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: address11 in /home/infinibi/public_html/register.php on line 6
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: address21 in /home/infinibi/public_html/register.php on line 7
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: city1 in /home/infinibi/public_html/register.php on line 8
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: state1 in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: postcode1 in /home/infinibi/public_html/register.php on line 10
+[11-May-2017 09:40:26 UTC] PHP Notice:  Undefined index: password1 in /home/infinibi/public_html/register.php on line 11
+[11-May-2017 09:40:26 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/infinibi/public_html/register.php on line 42
+[11-May-2017 09:40:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 09:40:37 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 3
+[11-May-2017 09:40:37 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 09:40:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 18
+[11-May-2017 09:40:37 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:40:37 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 22
+[11-May-2017 09:51:47 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 10:05:58 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (1) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 10:06:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 10:06:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'localhost:3306' (4) in /home/infinibi/public_html/register.php on line 2
+[11-May-2017 10:07:05 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:07:05 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:07:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:07:05 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:07:05 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:07:08 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:07:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:07:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:07:08 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:07:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:07:12 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: name1 in /home/infinibi/public_html/register.php on line 10
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: email1 in /home/infinibi/public_html/register.php on line 11
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: address11 in /home/infinibi/public_html/register.php on line 12
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: address21 in /home/infinibi/public_html/register.php on line 13
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: city1 in /home/infinibi/public_html/register.php on line 14
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: state1 in /home/infinibi/public_html/register.php on line 15
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: postcode1 in /home/infinibi/public_html/register.php on line 16
+[11-May-2017 10:07:12 UTC] PHP Notice:  Undefined index: password1 in /home/infinibi/public_html/register.php on line 17
+[11-May-2017 10:07:26 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:07:26 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:07:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:07:26 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:07:26 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:10:08 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:10:08 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:10:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:10:08 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:10:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:10:13 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:10:13 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:10:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:10:13 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:10:13 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:25:23 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:25:23 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:25:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:25:23 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:25:23 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:25:52 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/infinibi/public_html/register.php on line 9
+[11-May-2017 10:25:52 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/infinibi/public_html/register.php on line 23
+[11-May-2017 10:25:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/infinibi/public_html/register.php on line 24
+[11-May-2017 10:25:52 UTC] PHP Notice:  Undefined variable: db_con in /home/infinibi/public_html/register.php on line 28
+[11-May-2017 10:25:52 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/infinibi/public_html/register.php on line 28
