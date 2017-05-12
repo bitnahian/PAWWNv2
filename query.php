@@ -1,3 +1,10 @@
+<?php
+
+session_start();
+
+?>
+
+
 <!DOCTYPE html>
   <html>
     <head>
@@ -12,7 +19,7 @@
       	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
       	
       	
-      	<script type="text/javascript" src="registration.js"></script>
+      	<script type="text/javascript" src="query.js"></script>
       	
       
 
@@ -71,48 +78,18 @@
 <div class="container">
 		<div class="row">
 			<form class="col s12" method="post" action="#">
-				<h3 class="center">Register as a client</h2>
+				<h3 class="center">Search for a CLC</h2>
 				<div class="input-field col s12">
-                  <input placeholder="Name" id="name" type="text" class="validate" name="dname">
-                  </div>
-                  <div class="input-field col s12">
-                  <input placeholder="Email" id="email" type="text" class="validate" name="demail">
-                  </div>
-                  <div class="input-field col s6">
-                  <input placeholder="Password" id="password" name="password" type="password">
-                  
-                  </div>
-                  <div class="input-field col s6">
-                  <input placeholder="Confirm Password" id="cpassword" name="cpassword" type="password">  
-                  </div>
-                    <div class="input-field col s6">
-                  <input placeholder="Address Line 1" id="address1" name="address1">  
-                  </div>
-                  <div class="input-field col s6">
-                  <input placeholder="Address Line 2" id="address2" name="address2">  
-                  </div>
-                   <div class="input-field col s6">
-                  <input placeholder="City" id="city" name="city">  
+                  <input placeholder="Search" id="query" type="text" class="validate" name="dname">
                   </div>
                   
-                   <div class="input-field col s6">
-                   <select class="browser-default" name ="state" id = "state">
-                       <option value="ACT">ACT</option>
-                      <option value="NSW">NSW</option>
-                       <option value="NT">NT</option>
-                       <option value="QLD">QLD</option>
-                       <option value="SA">SA</option>
-                       <option value="TAS">TAS</option>
-                       <option value="VIC">VIC</option>
-                       <option value="WA">WA</option>
-                   </select>
-                  </div>    
-                   <div class="input-field col s12">
-                  <input placeholder="Postcode" id="postcode" name="postcode">  
-                <input type="button" name="register" id="register" value="Register">
+                   <div class="input-field col s12">  
+                <input type="button" name="search" id="search" value="Search">
                   </div>
                   
 			</form>
+
+      <div id="txtHint"><b> <br> <br> </b></div>
 		</div>
       </div>
    <!--
@@ -137,6 +114,14 @@
           </div>
           <div class="footer-copyright">
             <div class="container">
+            <a style = "color: white;" href = "logout.php">
+            <?php
+            if(isset($_SESSION['name']))
+            {
+              echo "    Sign Out";
+            }
+            ?>
+            </a>
             © 2017 Good Vibes All Rights Reserved.
             <a class="grey-text text-lighten-4 right" href="feedback.html"><strong>Give Feedback</strong></a>
             </div>

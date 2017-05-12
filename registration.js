@@ -11,6 +11,8 @@ $(document).ready(function() {
 		var postcode = $("#postcode").val();
 		var isvalidnum = /^\d{4}$/.test(postcode);
 
+		
+
 		if (name == '' || email == '' || password == '' || cpassword == '' || address1 == '' || city == ''  || postcode == '') {
 			alert("Please fill all fields.");
 		} else if ((password.length) < 8) {

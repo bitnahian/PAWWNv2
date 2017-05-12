@@ -30,26 +30,41 @@
                 
    <!--NAVBAR STARTS HERE-->
 
-   <div class="navbar-fixed">
+  <div class="navbar-fixed">
    <nav class="nav-extended">
-         <div class="nav-wrapper">
-           <ul id="dropdown1" class="dropdown-content">
-          <li><a href="registration.html">CLIENT</a></li>
-          <li><a href="#">CLC</a></li>
-        </ul>            
-          <a href="index.html" class="brand-logo center">PAWWN</a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="#">ABOUT</a></li></strong>
-            <strong>
-                <li><a href="#">FAQs</a></li></strong>
-              <strong>
-            <li><a href="#">CONTACT</a></li></strong>
-          <strong><li><a class="dropdown-button" href="#!" data-activates="dropdown1">LOGIN<i class="material-icons right">arrow_drop_down</i></a></li></strong>
+     <div class="nav-wrapper">
+       <ul id="dropdown1" class="dropdown-content">
+        <li><a href="registration.html">CLIENT REGISTRATION</a></li>
+        <li><a href="clc_reg.html">CLC REGISTRATION</a></li>
+      </ul>            
 
-             </ul>
-        </div>
-    </nav>
-   </div>
+      <a href="index.php" class="brand-logo center">PAWWN</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+        <li><a href="#">ABOUT</a></li></strong>
+        <strong>
+          <li><a href="#">FAQs</a></li></strong>
+          <strong>
+            <li><a href="#">CONTACT</a></li></strong>
+            <strong>
+              <li><a href = "login.html">
+                <?php 
+                if(isset($_SESSION['name']))
+                { 
+                  echo $_SESSION['name'];
+                }
+                else
+                {
+                  echo "LOGIN";
+                }
+                ?> </a></li></strong>
+                <strong><li><a class="dropdown-button" href="#!" data-activates="dropdown1">
+                REGISTER
+                  <i class="material-icons right">arrow_drop_down</i></a></li></strong>
+
+                </ul>
+              </div>
+            </nav>
+          </div>
     
 <!--    NAVBAR FINISHES HERE-->
  
