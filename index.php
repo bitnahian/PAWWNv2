@@ -47,18 +47,6 @@ session_start();
                     }
                     ?>
                 </span></a>
-                <a href="#!email"><span class="white-text email">
-                 <?php 
-                    if(isset($_SESSION['name']))
-                    { 
-                      echo $_SESSION['dmail'];
-                    }
-                    else
-                    {
-                      echo "";
-                    }
-                    ?>
-                    </span></a>
                 </div></li>
 
             <li><a href="about.php">About</a></li>
