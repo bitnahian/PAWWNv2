@@ -8,7 +8,7 @@ session_start();
 <html>
 <head>
   <!--Import Google Icon Font-->
-  <title>PAWWN</title>
+  <title>U-LEGAL</title>
   <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <!--Import materialize.css-->
   <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
@@ -27,7 +27,7 @@ session_start();
 
  
   
-   <!---SIDENAV STARTS HERE-->   
+     <!---SIDENAV STARTS HERE-->   
 
         <ul id="slide-out" class="side-nav">
             <li><div class="userView">
@@ -51,7 +51,8 @@ session_start();
 
             <li><a href="about.php">About</a></li>
             <li><a href="consult.php">Consult</a></li>
-            <li><a href="#!">Contact</a></li>
+            <li><a href="query.php">Query</a></li>
+
             <li class="no-padding">
                 <ul class="collapsible collapsible-accordion">
                     <li>
@@ -81,19 +82,18 @@ session_start();
         <li><a href="clc_reg.html">CLC REGISTRATION</a></li>
       </ul>            
 
-      <a href="index.php" class="brand-logo center">PAWWN</a>
+      <a href="index.php" class="brand-logo center">U-LEGAL</a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
-        <li><a href="about.php">ABOUT</a></li></strong>
+        <strong><li><a href="about.php">ABOUT</a></li></strong>
+         <strong>
+          <li><a href="query.php">QUERY</a></li></strong>
         <strong>
-          <li><a href="#">FAQs</a></li></strong>
-          <strong>
-            <li><a href="#">CONTACT</a></li></strong>
-            <strong>
-              <li><a href = "login.html">
+          <li><a href="consult.php">CONSULT</a></li></strong>
+             <strong> <li><a href = "login.html">
                 <?php 
                 if(isset($_SESSION['name']))
                 { 
-                  echo $_SESSION['name'];
+                  echo strtoupper($_SESSION['name']);
                 }
                 else
                 {
@@ -104,12 +104,14 @@ session_start();
                 REGISTER
                   <i class="material-icons right">arrow_drop_down</i></a></li></strong>
 
-                </ul>
+            </ul>
               </div>
             </nav>
           </div>
 
           <!--    NAVBAR FINISHES HERE-->
+ <script type="text/javascript"
+  src="js/display.js"></script>
 
           <!--FIRST DIV STARTS HERE-->
           <div id="hello-div">
@@ -149,9 +151,9 @@ session_start();
        
        <div id="query-div">
             <h1 class="header center white-text">Find the right CLC for you</h1>
-           <h3 class ="header col s12 white-text light center">Click below</h3>
+          
            <div class="row"> <p>
-            <a class="waves-effect waves-light btn">Client</a>
+            <a class="waves-effect waves-light btn" href="query.php">Community Legal Centres</a>
        </div>
            
        
@@ -162,22 +164,22 @@ session_start();
     FOOTER STARTS HERE
   -->
   <footer class="page-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col l6 s12">
-          <h5 class="white-text">PAWWN</h5>
-          <a class="waves-effect waves-light btn" href="privacy.html">Privacy Policy</a>
-        </div>
-        <div class="col l4 offset-l2 s12">
-          <h5 class="white-text">Quick Links</h5>
-          <ul>
-           <li><a class="grey-text text-lighten-3" href="games.html">Games</a></li>
-           <li><a class="grey-text text-lighten-3" href="#!">Music</a></li>
-           <li><a class="grey-text text-lighten-3" href="#!">Videos</a></li>
-         </ul>
-       </div>
-     </div>
-   </div>
+                <div class="container">
+                <div class="row">
+                    <div class="col l6 s12">
+                        <h5 class="white-text">U-LEGAL</h5>
+                        <a class="waves-effect waves-light btn" href="privacy.html">Privacy Policy</a>
+                    </div>
+                    <div class="col l4 offset-l2 s12">
+                        <h5 class="white-text">Quick Links</h5>
+                        <ul>
+                            <li><a class="grey-text text-lighten-3" href="games.html">Services</a></li>
+                            <li><a class="grey-text text-lighten-3" href="#!">CLC Directory</a></li>
+                            <li><a class="grey-text text-lighten-3" href="#!">Our Mission</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
    <div class="footer-copyright">
     <div class="container">
       <a style = "color: white;" href = "logout.php">

@@ -49,6 +49,7 @@ echo "<table>
 	<th>City</th>
 	<th>State</th>
 	<th>Post Code</th>
+    <th>Apply</th>
 </tr>";
 while($row = mysqli_fetch_array($result)) {
 	echo "<tr>";
@@ -59,7 +60,7 @@ while($row = mysqli_fetch_array($result)) {
 	echo "<td>" . $row['city'] . "</td>";
 	echo "<td>" . $row['state'] . "</td>";
 	echo "<td>" . $row['postcode'] . "</td>";
-
+    echo "<td> <a href ='application.php' > Apply </a> </td>"; 
 	echo "</tr>";
 }
 echo "</table>";
